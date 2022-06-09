@@ -3,23 +3,18 @@ title: QuickArt
 subtitle: An animation production system based on generative adversarial
   networks and depth-aware networks
 date: 2022-06-09T12:17:43.067Z
-summary: >-
-  We contacted Mr. Li Wenyu from the School of Arts, Sichuan University (winner
+summary: >
+  * Contacted Mr. Li Wenyu from the School of Arts, Sichuan University (winner
   of the Best Animated Short Film Award at the Warsaw Film Festival) and Mr.
   Peng Xi from the School of Computer Science (National Distinguished Young
-  Professor) as instructors to discuss and analyze various aspects of AI-enabled
-  animation.
+  Professor) as instructors to discuss and analyze the specific aspects of AI
+  for animation creation
 
-  To discuss and analyze the specific aspects of AI for animation creation
+  * Refinement of the artist's lines using the LineNormalizer and LineRelifer models
 
-  Refinement of the artist's lines using the LineNormalizer and LineRelifer models
+  * Multi-style selective coloring of lines using a layered adversarial generative network
 
-  Selective coloring of line artwork with multiple styles using the Layered Adversarial Generation Network
-
-  Frame filling of the animation using the DAIN model
-
-
-  Translated with www.DeepL.com/Translator (free version)
+  * Frame filling of the animation using the DAIN model
 draft: false
 featured: false
 image:
