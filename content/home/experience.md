@@ -25,17 +25,21 @@ experience:
   - title: President
     company: Sichuan University Open Source Hardware Association/Sichuan University Smart Base Society
     company_url: ''
-    company_logo: org-m
+    company_logo: org-gc
     location: Sichuan University
     date_start: '2021-06-01'
     date_end: '2022-06-01'
     description: |2-
         Responsibilities include:
         
+        * Analysing
+        * Modelling
+        * Deploying
         * Conducting lectures
         * Website and server operation and maintenance
         * Management Association Members
         * Liaison with Huawei
+
 
 
 design:
