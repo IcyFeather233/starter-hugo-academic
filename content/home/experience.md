@@ -32,9 +32,6 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
         * Conducting lectures
         * Website and server operation and maintenance
         * Management Association Members
