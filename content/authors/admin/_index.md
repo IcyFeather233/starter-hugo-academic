@@ -8,6 +8,8 @@ interests:
   - Artificial Intelligence
   - IoT
   - Embedded Development
+  - NLP
+  - Human-computer interaction
 social:
   - icon: github
     icon_pack: fab
