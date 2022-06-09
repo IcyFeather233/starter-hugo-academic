@@ -40,11 +40,11 @@ item:
     organization: Sichuan University
     organization_url: http://www.scu.edu.cn/
     title: Sichuan University Comprehensive First Class Scholarship
-  # - date_end: ''
-  #   date_start: '2021-10-30'
-  #   organization: Sichuan University
-  #   organization_url: http://www.scu.edu.cn/
-  #   title: Sichuan University Wanglaoji Scholarship
+  - date_end: ''
+    date_start: '2021-10-30'
+    organization: Sichuan University
+    organization_url: http://www.scu.edu.cn/
+    title: Sichuan University Wanglaoji Scholarship
   # - date_end: ''
   #   date_start: '2021-12-30'
   #   organization: Sichuan University
