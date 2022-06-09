@@ -6,42 +6,27 @@ bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - IoT
+  - Embedded Development
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: mengzhuo.happy@gmail.com
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/icyfeather233
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Sichuan University
+    url: https://www.scu.edu.cn/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Computer Science and Technology (next year)
+      institution: Sichuan University
+      year: 2023
 email: ""
 superuser: true
 highlight_name: true
 ---
 I am currently a junior majoring in Computer Science and Technology at Sichuan University. I previously served as the president of the Sichuan University Open Source Hardware Association and the president of the Sichuan University Intelligent Base Society. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resume{{< /staticref >}}.
