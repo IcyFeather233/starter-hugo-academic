@@ -27,7 +27,7 @@ item:
     date_start: '2020-09-30'
     description: ''
     organization: Ministry of Education of the People's Republic of China
-    organization_url: https://www.scu.edu.cn/
+    organization_url: http://www.moe.gov.cn/
     title: National Scholarship
     url: ''
 
