@@ -28,4 +28,4 @@ highlight_name: true
 ---
 I am currently a junior majoring in Computer Science and Technology at Sichuan University. I previously served as the president of the Sichuan University Open Source Hardware Association and the president of the Sichuan University Intelligent Base Society. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resume{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/陈孟卓简历.pdf" "newtab" >}}resume{{< /staticref >}}.
