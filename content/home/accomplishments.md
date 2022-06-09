@@ -35,34 +35,41 @@ item:
     organization: Sichuan University
     organization_url: http://www.scu.edu.cn/
     title: Sichuan University Top 100 Students
-  # - date_end: ''
-  #   date_start: '2020-09-30'
-  #   organization: Ministry of Education of the People's Republic of China
-  #   title: National Scholarship
-  # - date_end: ''
-  #   date_start: '2020-09-30'
-  #   organization: Sichuan University
-  #   title: Sichuan University Comprehensive First Class Scholarship
-  # - date_end: ''
-  #   date_start: '2021-09-30'
-  #   organization: Sichuan University
-  #   title: Sichuan University Comprehensive First Class Scholarship
-  # - date_end: ''
-  #   date_start: '2021-10-30'
-  #   organization: Sichuan University
-  #   title: Sichuan University Wanglaoji Scholarship
-  # - date_end: ''
-  #   date_start: '2021-10-30'
-  #   organization: Sichuan University
-  #   title: Sichuan University Smart Base Scholarship
-  # - date_end: ''
-  #   date_start: '2020-9-30'
-  #   organization: Sichuan University
-  #   title: Outstanding Student of Sichuan University
-  # - date_end: ''
-  #   date_start: '2021-10-30'
-  #   organization: Sichuan University
-  #   title: Outstanding Student Leaders of Sichuan University
+  - date_end: ''
+    date_start: '2020-09-30'
+    organization: Ministry of Education of the People's Republic of China
+    organization_url: http://www.scu.edu.cn/
+    title: National Scholarship
+  - date_end: ''
+    date_start: '2020-09-30'
+    organization: Sichuan University
+    organization_url: http://www.scu.edu.cn/
+    title: Sichuan University Comprehensive First Class Scholarship
+  - date_end: ''
+    date_start: '2021-09-30'
+    organization: Sichuan University
+    organization_url: http://www.scu.edu.cn/
+    title: Sichuan University Comprehensive First Class Scholarship
+  - date_end: ''
+    date_start: '2021-10-30'
+    organization: Sichuan University
+    organization_url: http://www.scu.edu.cn/
+    title: Sichuan University Wanglaoji Scholarship
+  - date_end: ''
+    date_start: '2021-10-30'
+    organization: Sichuan University
+    organization_url: http://www.scu.edu.cn/
+    title: Sichuan University Smart Base Scholarship
+  - date_end: ''
+    date_start: '2020-9-30'
+    organization: Sichuan University
+    organization_url: http://www.scu.edu.cn/
+    title: Outstanding Student of Sichuan University
+  - date_end: ''
+    date_start: '2021-10-30'
+    organization: Sichuan University
+    organization_url: http://www.scu.edu.cn/
+    title: Outstanding Student Leaders of Sichuan University
 
 design:
   columns: '2'
