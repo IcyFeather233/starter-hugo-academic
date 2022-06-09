@@ -37,11 +37,6 @@ item:
     title: Sichuan University Top 100 Students
   - date_end: ''
     date_start: '2020-09-30'
-    organization: Ministry of Education of the People's Republic of China
-    organization_url: http://www.scu.edu.cn/
-    title: National Scholarship
-  - date_end: ''
-    date_start: '2020-09-30'
     organization: Sichuan University
     organization_url: http://www.scu.edu.cn/
     title: Sichuan University Comprehensive First Class Scholarship
