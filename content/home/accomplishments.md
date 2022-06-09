@@ -24,37 +24,44 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - date_end: ''
-    date_start: '2022-06-08'
-    organization: Sichuan University
-    title: Sichuan University Top 100 Students
-  - date_end: ''
     date_start: '2020-09-30'
+    description: ''
     organization: Ministry of Education of the People's Republic of China
+    organization_url: http://www.moe.gov.cn/
     title: National Scholarship
-  - date_end: ''
-    date_start: '2020-09-30'
-    organization: Sichuan University
-    title: Sichuan University Comprehensive First Class Scholarship
-  - date_end: ''
-    date_start: '2021-09-30'
-    organization: Sichuan University
-    title: Sichuan University Comprehensive First Class Scholarship
-  - date_end: ''
-    date_start: '2021-10-30'
-    organization: Sichuan University
-    title: Sichuan University Wanglaoji Scholarship
-  - date_end: ''
-    date_start: '2021-10-30'
-    organization: Sichuan University
-    title: Sichuan University Smart Base Scholarship
-  - date_end: ''
-    date_start: '2020-9-30'
-    organization: Sichuan University
-    title: Outstanding Student of Sichuan University
-  - date_end: ''
-    date_start: '2021-10-30'
-    organization: Sichuan University
-    title: Outstanding Student Leaders of Sichuan University
+    url: ''
+  # - date_end: ''
+  #   date_start: '2022-06-08'
+  #   organization: Sichuan University
+  #   title: Sichuan University Top 100 Students
+  # - date_end: ''
+  #   date_start: '2020-09-30'
+  #   organization: Ministry of Education of the People's Republic of China
+  #   title: National Scholarship
+  # - date_end: ''
+  #   date_start: '2020-09-30'
+  #   organization: Sichuan University
+  #   title: Sichuan University Comprehensive First Class Scholarship
+  # - date_end: ''
+  #   date_start: '2021-09-30'
+  #   organization: Sichuan University
+  #   title: Sichuan University Comprehensive First Class Scholarship
+  # - date_end: ''
+  #   date_start: '2021-10-30'
+  #   organization: Sichuan University
+  #   title: Sichuan University Wanglaoji Scholarship
+  # - date_end: ''
+  #   date_start: '2021-10-30'
+  #   organization: Sichuan University
+  #   title: Sichuan University Smart Base Scholarship
+  # - date_end: ''
+  #   date_start: '2020-9-30'
+  #   organization: Sichuan University
+  #   title: Outstanding Student of Sichuan University
+  # - date_end: ''
+  #   date_start: '2021-10-30'
+  #   organization: Sichuan University
+  #   title: Outstanding Student Leaders of Sichuan University
 
 design:
   columns: '2'
