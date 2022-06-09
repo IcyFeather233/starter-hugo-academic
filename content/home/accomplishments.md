@@ -27,7 +27,7 @@ item:
     date_end: ''
     date_start: '2020-09-30'
     description: ''
-    organization: Coursera
+    organization: Ministry of Education of the People's Republic of China
     organization_url: https://www.scu.edu.cn/
     title: National Scholarship
     url: ''
