@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mengzhuo.happy@gmail.com
+    link: /#contact
   - icon: github
     icon_pack: fab
     link: https://github.com/icyfeather233
