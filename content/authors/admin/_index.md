@@ -19,7 +19,7 @@ organizations:
     url: https://www.scu.edu.cn/
 education:
   courses:
-    - course: BSc in Computer Science and Technology (next year)
+    - course: BE in Computer Science and Technology (next year)
       institution: Sichuan University
       year: 2023
 email: ""
