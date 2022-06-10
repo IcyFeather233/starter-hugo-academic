@@ -36,7 +36,17 @@ experience:
         * Website and server operation and maintenance
         * Management Association Members
         * Liaison with Huawei
-
+  - title: Interns
+    company: DILAB, School of Computer Science, Sichuan UniversitySociety
+    company_url: ''
+    company_logo: org-gc
+    location: Sichuan University
+    date_start: '2021-09-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Study of semantic matching in ancient Chinese poetry
 
 
 design:
